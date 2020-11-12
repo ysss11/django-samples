@@ -1,7 +1,6 @@
-djangogirls/*.pyc
-djangogirls/*~
-djangogirls/.vscode
-djangogirls/__pycache__
+*~
+/.vscode
+__pycache__
 djangogirls/myvenv
 djangogirls/db.sqlite3
 djangogirls/static
