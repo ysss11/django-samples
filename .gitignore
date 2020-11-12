@@ -7,3 +7,4 @@ djangogirls/db.sqlite3
 djangogirls/static
 djangogirls/.DS_Store
 djangogirls/secrets.json
+*.pyc
